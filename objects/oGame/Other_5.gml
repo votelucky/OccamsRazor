@@ -1,0 +1,1 @@
+if audio_is_playing(global.currentMusic) audio_sound_gain(global.currentMusic,0,5000);

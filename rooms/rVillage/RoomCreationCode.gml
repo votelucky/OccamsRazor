@@ -1,0 +1,1 @@
+global.newMusic = mVillage_River;
