@@ -172,8 +172,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "Player Old",
+    "path": "folders/Sprites/Player Old.yy",
   },
   "resourceVersion": "1.0",
   "name": "sMenuPlayer",
